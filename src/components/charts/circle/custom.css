@@ -1,0 +1,4 @@
+.CircularProgressbar-path {
+  stroke-dasharray: 300 !important;
+  transition: all 0.8s ease-in-out !important;
+}
